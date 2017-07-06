@@ -14,7 +14,7 @@
     "build": "node ./scripts/build.js",
     "predeploy": "npm run build"
   },
-  "homepage":"/create-react-app-2/build/",
+  "homepage":"/create-react-app-3/build/",
   "files": [
     "bin",
     "config",
@@ -25,7 +25,7 @@
   "bin": {
     "react-scripts": "./bin/react-scripts.js"
   },
-  "homepage": "https://dsopel.github.io/create-react-app-2/build",
+  "homepage": "https://dsopel.github.io/create-react-app-3/build",
   "dependencies": {
     "autoprefixer": "7.1.0",
     "babel-core": "6.24.1",

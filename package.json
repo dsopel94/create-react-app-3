@@ -13,12 +13,12 @@
     "format": "prettier --trailing-comma es5 --single-quote --write 'packages/*/*.js' 'packages/*/!(node_modules)/**/*.js'",
     "precommit": "lint-staged"
   },
-  "homepage":"/create-react-app-2/build/",
+  "homepage":"/create-react-app-3/build/",
   "engines": {
     "node": "6.11.0",
     "npm": "3.10.10"
   },
-  "homepage": "https://dsopel.github.io/create-react-app-2/build",
+  "homepage": "https://dsopel.github.io/create-react-app-3/build",
   "dependencies": {
     "axios": "^0.16.1",
     "babel-cli": "^6.24.1",
